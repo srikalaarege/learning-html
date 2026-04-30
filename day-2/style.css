@@ -1,0 +1,26 @@
+.color_blue{
+    color:blue;
+}
+
+.color_red{
+    color:red;
+}
+
+.color_green{
+    color:green;
+}
+img{
+    width: 200px;
+}
+p{
+    border-style: dashed;
+    border-color: aqua;
+    border-width: 10px;
+    padding: 30px;
+    margin: 20px;
+    text-align: justify;
+}
+.a{
+    border-style: solid;
+    border-color: blueviolet;
+}
