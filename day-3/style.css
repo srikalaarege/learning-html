@@ -1,3 +1,12 @@
 h1{
     color: green;
 }
+.a{
+    color: white;
+    text-align: justify;
+    padding:10px;
+    /* background-repeat: no-repeat; */
+    width: 40%;
+    background-size: cover;
+    background-image:url(https://img.freepik.com/free-photo/beautiful-lake-mountains_395237-44.jpg?semt=ais_hybrid&w=740&q=80);
+}
