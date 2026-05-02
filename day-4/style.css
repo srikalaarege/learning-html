@@ -1,3 +1,10 @@
 h1{
     color: brown;
 }
+ol li{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul li{
+    color:red;
+}
