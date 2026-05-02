@@ -1,0 +1,17 @@
+body{
+    background: url('https://www.w3schools.com/w3images/wedding_couple.jpg') center/cover;
+    color: white;
+}
+.a{
+    text-align: center;
+    margin-top:350px;
+    font-size: 30px;
+}
+.b{
+    text-align: center;
+    font-size:25px;
+}
+.c{
+    text-align: center;
+    font-size:25px;
+}
