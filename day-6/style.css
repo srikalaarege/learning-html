@@ -1,0 +1,48 @@
+.navbar {
+    display:flex;
+    align-items:center;
+   justify-content: space-between;
+
+}
+.navbar a{
+    text-decoration: none;
+    padding:10px 20px;
+    margin:0 20px;
+    border:1px solid black;
+    background: black;
+    color:white;
+
+    transition: .3s;
+
+}
+.navbar a:hover{
+    background: white;
+    color:black;
+}
+
+.hero {
+   
+    height: 80vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;    
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form input{
+    width: 90%;
+    margin-bottom:  0.5%;
+    
+}
+form input[type="submit"]{
+    width:fit-content;
+    background-color: black;
+    color: white;
+}
+form input[type="submit"]:hover{
+    background-color: gray;
+    color: #000;
+}
